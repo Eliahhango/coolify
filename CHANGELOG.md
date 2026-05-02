@@ -6305,6 +6305,7 @@ All notable changes to this project will be documented in this file.
 - *(sponsors)* Add MindedTech to Small sponsors
 - *(sponsors)* Add NetRouting to Small sponsors
 - *(sponsors)* Add ParsecPH to Small sponsors
+- Update changelog
 
 ### ⚡ Performance
 
@@ -7181,6 +7182,7 @@ All notable changes to this project will be documented in this file.
 - *(service)* Update beszel to 0.18.7 (#9775)
 - *(templates)* Sync service-templates from next
 - *(templates)* Sync service-templates from next (#9884)
+- *(codeql)* Auto-detect supported languages per repository
 - *(codeql)* Auto-detect supported languages per repository
 
 ### ◀️ Revert
