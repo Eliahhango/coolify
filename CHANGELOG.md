@@ -4967,6 +4967,7 @@ All notable changes to this project will be documented in this file.
 - Add missing database alteration step for latest image version
 - *(service)* Add missing database alteration step for Logto latest image (#9376)
 - *(service)* Rally invalid next public url  (#9041)
+- *(codeql)* Run analysis for private repos too
 
 ### 💼 Other
 
@@ -6305,6 +6306,7 @@ All notable changes to this project will be documented in this file.
 - *(sponsors)* Add MindedTech to Small sponsors
 - *(sponsors)* Add NetRouting to Small sponsors
 - *(sponsors)* Add ParsecPH to Small sponsors
+- Update changelog
 - Update changelog
 - Update changelog
 
